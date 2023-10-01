@@ -1,5 +1,5 @@
 # GSP484
->🚨 [PLEASE SUBSCRIBE OUR CHANNEL CLOUDHUSTLER](https://www.youtube.com/@cloudhustlers) **&** [JOIN OUR COMMUNITY](https://chat.whatsapp.com/KBfUcSleGGEFf2Xvvm8FW3)
+
 ###  Run in Cloudshell
 ```cmd
 git clone https://github.com/GoogleCloudPlatform/gke-tracing-demo
